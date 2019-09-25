@@ -1,8 +1,5 @@
 # Stem
 
-[![NPM version](http://img.shields.io/npm/v/npm-expansions.svg?style=flat-square)](https://www.npmjs.org/package/npm-expansions)
-[![Build Status](https://travis-ci.org/travis-ci/travis-web.svg?branch=master)](https://travis-ci.org/travis-ci/travis-web)
-[![Sequelize](https://img.shields.io/badge/sequelize-v5.89-green.svg)](https://www.npmjs.org/package/sequelize)
 [![MIT licensed](https://img.shields.io/badge/license-MIT-blue.svg)](./LICENSE)
 
 *All your social media on one stalk*
