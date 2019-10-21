@@ -39,15 +39,6 @@ Before you can install Node, you’ll need to install two other applications. Fo
 > - Follow the prompts in the installer (Accept the license agreement, click the NEXT button a bunch of times and accept the default installation settings).
 > - Restart your computer. You won’t be able to run Node.js until you restart your computer.
 
-**MySQL Workbench**
-- It is recommended that you install MySQL Workbench v5.7 as it seems to be the most stable for all systems.
-
-#### Windows
-- Go to https://dev.mysql.com/downloads/windows/installer/5.7.html and download the version that matches your architecture.
-
-#### MacOS
-- Follow the instructions found here: [MacOS MySQL Workbench Installation](public/assets/readme/mysqlinstall_mac.md).
-
 ## Contributing
 - Fork it (https://github.com/connorleee/project-3-team-6/fork)
 - Create your feature branch `git checkout -b feature/project-3-team-6`
